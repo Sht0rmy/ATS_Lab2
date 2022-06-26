@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Segment_tree_beta.dir/objects.a
+D:\migw\bin\ar.exe cr CMakeFiles\Segment_tree_beta.dir/objects.a @CMakeFiles\Segment_tree_beta.dir\objects1.rsp
+D:\migw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Segment_tree_beta.dir/objects.a -Wl,--no-whole-archive -o Segment_tree_beta.exe -Wl,--out-implib,libSegment_tree_beta.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Segment_tree_beta.dir\linklibs.rsp

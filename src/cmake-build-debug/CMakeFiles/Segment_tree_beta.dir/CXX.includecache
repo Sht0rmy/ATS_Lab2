@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Vow/CLionProjects/Segment_tree_beta/BinomialHeap.h
+iostream
+-
+list
+-
+
+C:/Users/Vow/CLionProjects/Segment_tree_beta/Complex.h
+iostream
+-
+
+C:/Users/Vow/CLionProjects/Segment_tree_beta/Segment_tree.h
+cmath
+-
+vector
+-
+
+C:/Users/Vow/CLionProjects/Segment_tree_beta/main.cpp
+list
+-
+Segment_tree.h
+C:/Users/Vow/CLionProjects/Segment_tree_beta/Segment_tree.h
+Complex.h
+C:/Users/Vow/CLionProjects/Segment_tree_beta/Complex.h
+BinomialHeap.h
+C:/Users/Vow/CLionProjects/Segment_tree_beta/BinomialHeap.h
+
